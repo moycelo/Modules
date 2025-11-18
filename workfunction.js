@@ -42,7 +42,7 @@ function showJob1Duties() {
         return;
     }
     var index = numDuties - 1;
-    if(index >= Job2Duties.length){
+    if(index >= job2Duties.length){
         index = job2Duties.length -1;
     }
     var result = "";
